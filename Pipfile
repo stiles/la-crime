@@ -1,0 +1,43 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+geopandas = "*"
+numpy = "*"
+requests = "*"
+openpyxl = "*"
+lxml = "*"
+html5lib = "*"
+xlrd = "*"
+jupyterlab = "*"
+altair = "*"
+jenkspy = "*"
+importlib-metadata = "*"
+vega-datasets = "*"
+rtree = "*"
+ipympl = "*"
+jupyter-black = "*"
+tqdm = "*"
+pyarrow = "*"
+black = "*"
+scikit-learn = "*"
+pyogrio = "*"
+fiona = "*"
+aiohttp = "*"
+us = "*"
+nltk = "*"
+googlemaps = "*"
+plotly = "*"
+altair-stiles = "*"
+sqlalchemy = "*"
+psycopg2-binary = "*"
+fastparquet = "*"
+sodapy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
